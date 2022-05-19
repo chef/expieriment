@@ -1,4 +1,4 @@
 module Semverse
-  VERSION = "4.1.14".freeze
+  VERSION = "5.1.14".freeze
 end
 
