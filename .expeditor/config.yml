@@ -22,12 +22,10 @@ github:
     - "Expeditor: Bump Version Major"
 
 release_branches:
-  - publish:
-      version_constraint: 5*
   - main:
       version_constraint: 4*
-  - feat/publish_gem:
-      version_constraint: 3*
+  - second:
+      version_constraint: 5*
 
 changelog:
   rollup_header: Changes not yet released to rubygems.org
