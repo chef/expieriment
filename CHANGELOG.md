@@ -1,7 +1,15 @@
-<!-- latest_release -->
+<!-- latest_release 4.1.22 -->
+## [v4.1.22](https://github.com/chef/expieriment/tree/v4.1.22) (2022-06-02)
+
+#### Merged Pull Requests
+- Change dummy [#13](https://github.com/chef/expieriment/pull/13) ([sanjain-progress](https://github.com/sanjain-progress))
 <!-- latest_release -->
 
 <!-- release_rollup -->
+### Changes not yet released to rubygems.org
+
+#### Merged Pull Requests
+- Change dummy [#13](https://github.com/chef/expieriment/pull/13) ([sanjain-progress](https://github.com/sanjain-progress)) <!-- 4.1.22 -->
 <!-- release_rollup -->
 
 <!-- latest_stable_release -->
