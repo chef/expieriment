@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "semverse/gem_version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "chef-testing"
+  spec.name          = "chef-testing-1"
   spec.version       = Semverse::VERSION
   spec.authors       = ["Jamie Winsor"]
   spec.email         = ["jamie@vialstudios.com"]
