@@ -1,7 +1,15 @@
-<!-- latest_release -->
+<!-- latest_release 8.0.2 -->
+## [v8.0.2](https://github.com/chef/expieriment/tree/v8.0.2) (2022-06-05)
+
+#### Merged Pull Requests
+- add expeditor support [#14](https://github.com/chef/expieriment/pull/14) ([sanjain-progress](https://github.com/sanjain-progress))
 <!-- latest_release -->
 
-<!-- release_rollup -->
+<!-- release_rollup since=4.1.22 -->
+### Changes not yet released to rubygems.org
+
+#### Merged Pull Requests
+- add expeditor support [#14](https://github.com/chef/expieriment/pull/14) ([sanjain-progress](https://github.com/sanjain-progress)) <!-- 8.0.2 -->
 <!-- release_rollup -->
 
 <!-- latest_stable_release -->
