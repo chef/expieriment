@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.license                   = "Apache-2.0"
   s.files                     = %w{LICENSE Gemfile Rakefile} + Dir.glob("*.gemspec") + Dir.glob("{lib,spec, features}/**/*")
   s.executables               = Dir.glob("bin/**/*").map { |f| File.basename(f) }
-  s.name                      = "chef-testing"
+  s.name                      = "chef-testing-1"
   s.require_paths             = ["lib"]
   s.version                   = Berkshelf::VERSION
   s.required_ruby_version     = ">= 2.7.0"
