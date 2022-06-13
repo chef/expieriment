@@ -3,7 +3,7 @@ $:.unshift(lib) unless $:.include?(lib)
 require "fauxhai/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "chef-testing"
+  spec.name          = "chef-testing-1"
   spec.version       = Fauxhai::VERSION
   spec.authors       = ["Seth Vargo", "Tim Smith"]
   spec.email         = ["sethvargo@gmail.com", "tsmith84@gmail.com"]
