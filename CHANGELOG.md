@@ -1,14 +1,15 @@
-<!-- latest_release 9.3.2 -->
-## [v9.3.2](https://github.com/chef/expieriment/tree/v9.3.2) (2022-06-13)
+<!-- latest_release 9.3.3 -->
+## [v9.3.3](https://github.com/chef/expieriment/tree/v9.3.3) (2022-06-13)
 
 #### Merged Pull Requests
-- Dumy change [#17](https://github.com/chef/expieriment/pull/17) ([sanjain-progress](https://github.com/sanjain-progress))
+- Dumy change [#18](https://github.com/chef/expieriment/pull/18) ([sanjain-progress](https://github.com/sanjain-progress))
 <!-- latest_release -->
 
 <!-- release_rollup since=4.1.22 -->
 ### Changes not yet released to rubygems.org
 
 #### Merged Pull Requests
+- Dumy change [#18](https://github.com/chef/expieriment/pull/18) ([sanjain-progress](https://github.com/sanjain-progress)) <!-- 9.3.3 -->
 - Dumy change [#17](https://github.com/chef/expieriment/pull/17) ([sanjain-progress](https://github.com/sanjain-progress)) <!-- 9.3.2 -->
 - Dumy change [#16](https://github.com/chef/expieriment/pull/16) ([sanjain-progress](https://github.com/sanjain-progress)) <!-- 9.3.1 -->
 <!-- release_rollup -->
